@@ -1,0 +1,19 @@
+Albert Park Grand Prix Circuit	Ausztrália	Melbourne	5303	58
+Sepang International Circuit	Malajzia	Sepang	5543	56
+Shanghai International Circuit	Kína	Sanghaj	5451	56
+Bahrain International Circuit	Bahrein	Szahír	5412	57
+Circuit de Catalunya	Spanyolország	Barcelona	4655	66
+Circuit de Monaco	Monaco	Monte-Carlo	3340	78
+Circuit Gilles Villeneuve	Kanada	Montréal	4361	70
+Red Bull Ring	Ausztria	Spielberg	4326	71
+Silverstone Circuit	Egyesült Királyság	Silverstone	5891	52
+Hungaroring	Magyarország	Mogyoród	4381	70
+Circuit de Spa-Francorchamps	Belgium	Spa	7004	44
+Autodromo Nazionale Monza	Olaszország	Monza	5793	53
+Marina Bay Street Circuit	Szingapúr	Szingapúr	5065	61
+Suzuka Circuit	Japán	Szuzuka	5807	53
+Sochi International Street Circuit	Oroszország	Szocsi	5853	53
+Circuit of the Americas	Egyesült Államok	Austin	5513	56
+Autódromo Hermanos Rodríguez	Mexikó	Mexikóváros	4053	75
+Autódromo José Carlos Pace	Brazília	São Paulo	4309	71
+Yas Marina Circuit	Abu-Dzabi	Abu-Dzabi	5554	55

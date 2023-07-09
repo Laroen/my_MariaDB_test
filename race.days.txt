@@ -1,0 +1,19 @@
+1	Albert Park	Ausztrál Nagydíj	Melbourne	2015-03-15	06.00
+2	Sepang International Circuit	Malajziai Nagydíj	Kuala Lumpur	2015-03-29	09.00
+3	Shanghai International Circuit	Kínai Nagydíj	Sanghaj	2015-04-12	08.00
+4	Bahrain International Circuit	Bahreini Nagydíj	Szahír	2015-04-19	17.00
+5	Circuit de Catalunya	Spanyol Nagydíj	Barcelona	2015-05-10	14.00
+6	Circuit de Monaco	Monacói Nagydíj	Monaco	2015-05-24	14.00
+7	Circuit Gilles Villeneuve	Kanadai Nagydíj	Montreal	2015-06-07	20.00
+8	Red Bull Ring	Osztrák Nagydíj	Spielberg	2015-06-21	14.00
+9	Silverstone Circuit	Brit Nagydíj	Silverstone	2015-07-05	14.00
+10	Hungaroring	Magyar Nagydíj	Mogyoród	2015-07-26	14.00
+11	Circuit de Spa-Francorchamps	Belga Nagydíj	Spa	2015-08-23	14.00
+12	Autodromo di Monza	Olasz Nagydíj	Monza	2015-09-05	14.00
+13	Marina Bay Street Circuit	Szingapúri Nagydíj	Szingapúr	2015-09-20	14.00
+14	Suzuka Circuit	Japán Nagydíj	Szuzuka	2015-09-27	08.00
+15	Sochi International Street Circuit	Orosz Nagydíj	Szocsi	2015-10-11	12.00
+16	Circuit of the Americas	USA Nagydíj	Austin	2015-10-25	21.00
+17	Autodromo Hermanos Rodriguez	Mexikói Nagydíj	Mexikóváros	2015-11-01	21.00
+18	Autódromo José Carlos Pace	Brazil Nagydíj	Sao Paulo	2015-11-15	17.00
+19	Yas Marina Circuit	Abu-Dzabi Nagydíj	Abu-Dzabi	2015-11-29	14.00

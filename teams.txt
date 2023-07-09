@@ -1,0 +1,10 @@
+Infiniti Red Bull Racing	Red Bull	Renault	Ausztria
+Lotus F1 Team	Lotus	Mercedes	Egyesült Királyság
+Manor Marussia F1 Team	Marussia	Ferrari	Egyesült Királyság
+McLaren Honda	McLaren	Honda	Egyesült Királyság
+Mercedes AMG Petronas F1 Team	Mercedes	Mercedes	Németország
+Sahara Force India F1 Team	Force India	Mercedes	India
+Sauber F1 Team	Sauber	Ferrari	Svájc
+Scuderia Ferrari	Ferrari	Ferrari	Olaszország
+Scuderia Toro Rosso	Toro Rosso	Renault	Ausztria
+Williams Martini Racing	Williams	Mercedes	Egyesült Királyság

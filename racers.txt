@@ -1,0 +1,38 @@
+Fernando	Alonso	Spanyolország	14	McLaren Honda
+Valtteri	Bottas	Finnország	77	Williams Martini Racing
+Sébastien	Buemi	Svájc	0	Infiniti Red Bull Racing
+Jenson	Button	Egyesült Királyság	22	McLaren Honda
+Marcus	Ericsson	Svédország	9	Sauber F1 Team
+Marc	Gené	Spanyolország	0	Scuderia Ferrari
+Romain	Grosjean	Franciaország	8	Lotus F1 Team
+Esteban	Gutiérrez	Mexikó	0	Scuderia Ferrari
+Lewis	Hamilton	Egyesült Királyság	44	Mercedes AMG Petronas F1 Team
+Nico	Hülkenberg	Németország	27	Sahara Force India F1 Team
+Carmen	Jordá	Spanyolország	0	Lotus F1 Team
+Daniel	Juncadella	Spanyolország	0	Sahara Force India F1 Team
+Jordan	King	Egyesült Királyság	0	Manor Marussia F1 Team
+Danyiil 	Kvjat	Oroszország	26	Infiniti Red Bull Racing
+Alex	Lynn	Egyesült Királyság	0	Williams Martini Racing
+Kevin	Magnussen	Dánia	20	McLaren Honda
+Pastor	Maldonado	Venezuela	13	Lotus F1 Team
+Raffaele	Marciello	Olaszország	0	Sauber F1 Team
+Felipe	Massa	Brazília	19	Williams Martini Racing
+Roberto	Merhi	Spanyolország	45	Manor Marussia F1 Team
+Felipe	Nasr	Brazília	12	Sauber F1 Team
+Esteban	Ocon	Franciaország	0	Lotus F1 Team
+Jolyon	Palmer	Egyesült Királyság	0	Lotus F1 Team
+Sergio	Pérez	Mexikó	11	Sahara Force India F1 Team
+Charles	Pic	Franciaország	0	Lotus F1 Team
+Kimi	Räikkönen	Finnország	7	Scuderia Ferrari
+Daniel	Ricciardo	Ausztrália	3	Infiniti Red Bull Racing
+Davide	Rigon	Olaszország	0	Scuderia Ferrari
+Nico	Rosberg	Németország	6	Mercedes AMG Petronas F1 Team
+Carlos	Sainz	Spanyolország	55	Scuderia Toro Rosso
+Will	Stevens	Egyesült Királyság	46	Manor Marussia F1 Team
+Adrian	Sutil	Németország	0	Williams Martini Racing
+Stoffel	Vandoorne	Belgium	0	McLaren Honda
+Jean-Eric	Vergne	Franciaország	0	Scuderia Ferrari
+Max	Verstappen	Hollandia	33	Scuderia Toro Rosso
+Sebastian	Vettel	Németország	5	Scuderia Ferrari
+Pascal	Wehrlein	Németország	0	Mercedes AMG Petronas F1 Team
+Susie	Wolff	Egyesült Királyság	0	Williams Martini Racing
